@@ -1,0 +1,10 @@
+---
+title: SQL
+author: Hyebin
+date: '2018-03-15'
+slug: sql
+categories:
+  - R
+tags: []
+---
+
